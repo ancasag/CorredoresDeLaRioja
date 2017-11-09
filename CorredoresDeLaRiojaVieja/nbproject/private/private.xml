@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/CorredoresRiojaBundle/Resources/config/routing.yml</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/App/CorredoresRiojaInfraestructure/InMemoryRepository/InMemoryParticipanteRepository.php</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/app/config/security.yml</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/CorredoresRiojaBundle/Security/CorredorUserProvider.php</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/App/CorredoresRiojaInfraestructure/InMemoryRepository/InMemoryCorredorRepository.php</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/CorredoresRiojaBundle/Resources/views/ZonaCorredores/login.html.twig</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/App/CorredoresRiojaDomain/Repository/IParticipanteRepository.php</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/CorredoresRiojaBundle/Controller/DefaultController.php</file>
+            <file>file:/media/master/Angela/UNI%202017-2018%20MASTER/DAPI/PRÁCTICA2/CorredoresDeLaRioja/src/App/CorredoresRiojaDomain/Repository/ICorredorRepository.php</file>
+        </group>
+    </open-files>
+</project-private>
